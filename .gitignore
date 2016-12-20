@@ -1,0 +1,16 @@
+# Eclipse
+/bin/
+.settings
+.project
+.classpath
+
+# NetBeans
+/nbproject/private/
+/build/
+
+# IntelliJ
+/out/
+
+# User-specific stuff:
+.idea/workspace.xml
+.idea/tasks.xml
